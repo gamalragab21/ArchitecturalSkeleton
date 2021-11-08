@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
 //        viewmodel.listObjectLiveData.observe(viewLifecycleOwner, EventObserver(
 //            onError = {
 //                snackbar(it)
+
 //            },
 //            onLoading = {
 //                ic_progress.isVisible = true
