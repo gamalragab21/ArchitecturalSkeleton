@@ -1,7 +1,8 @@
 # ArchitecturalSkeleton
  is a Base Project for any project , if you start in a new project , should set up  means this project consider as Architectural Skeleton
  
-##  technology used [dagger hilt, coroutines, navigation components, LiveData, Skelton patterns, clean code, Room DB, Glide,Retrofit, and more..]
+## technology
+used [dagger hilt, coroutines, navigation components, LiveData, Skelton patterns, clean code, Room DB, Glide,Retrofit, and more..]
 
 
 
