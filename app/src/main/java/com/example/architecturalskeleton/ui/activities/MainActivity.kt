@@ -12,5 +12,18 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding= ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+//        viewmodel.listObjectLiveData.observe(viewLifecycleOwner, EventObserver(
+//            onError = {
+//                snackbar(it)
+//            },
+//            onLoading = {
+//                ic_progress.isVisible = true
+//            }
+//        ) { notes ->
+//
+//            ic_progress_notes.isVisible = false
+//            todo set up your adapter
+//
+//        })
     }
 }
